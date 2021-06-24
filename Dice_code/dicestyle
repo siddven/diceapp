@@ -1,0 +1,28 @@
+body {
+  font-family: 'JetBrains Mono', monospace;
+  background-color: blueviolet;
+}
+h1 {
+  text-align: center;
+  position: relative;
+  top: 50px;
+  font-size: 60px;
+}
+p {
+  text-align: center;
+  position: relative;
+  top: 70px;
+}
+form {
+  text-align: center;
+  position: relative; 
+  top: 50px;
+}
+
+select {
+  text-align: center;
+  font-family: 'JetBrains Mono', monospace;
+  background-color: lightblue;
+  font-size: 20px;
+  padding: 10px;
+}
